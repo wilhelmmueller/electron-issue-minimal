@@ -23,7 +23,7 @@ The problem seems specific to the CastLabs fork version `32.3.1+wvcus` and appea
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wilhelmmueller/electron-issue-minimal.git
    cd electron-issue-minimal
    ```
 
